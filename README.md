@@ -1,6 +1,6 @@
 # pandas-library-tutorial
 
-<p align="center"><img src="pandas.png"width=500px height=250px></p>
+<p align="center"><img src="pandas.png"width=540px height=250px></p>
 
 <b>Pandas is a powerful Python package for data manipulation and analysis.
 Allows importing data from various file formats such as comma-separated-values, JSON, SQL, Microsoft Excel. Pandas allow various data manipulation operations such as merging, reshaping, selecting, as well as data cleaning, data wrangling features, and perform
